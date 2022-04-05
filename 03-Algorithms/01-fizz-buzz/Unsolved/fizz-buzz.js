@@ -8,6 +8,20 @@ var fizzBuzz = function (arr) {
   for (let i = 0; i < arr.length; i++) {
     let num = arr[i]
 
+    // switch (num) {
+    //   case num % 3 === 0 && num % 5 === 0:
+    //     console.log('Fizz Buzz')
+    //     break
+    //   case num % 3 === 0:
+    //     console.log('Fizz')
+    //     break
+    //   case num % 5 === 0:
+    //     console.log('Buzz')
+    //     break
+
+    //   default:
+    //     console.log(num)
+    // }
     if (num % 3 === 0 && num % 5 === 0) {
       console.log('Fizz Buzz')
     } else if (num % 3 === 0) {
