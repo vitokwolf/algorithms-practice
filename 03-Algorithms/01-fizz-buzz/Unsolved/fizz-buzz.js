@@ -8,28 +8,51 @@ var fizzBuzz = function (arr) {
   for (let i = 0; i < arr.length; i++) {
     let num = arr[i]
 
-    // switch (num) {
+    // switch case method
+
+    // compare to true false statements
+
+    // switch (true) {
     //   case num % 3 === 0 && num % 5 === 0:
     //     console.log('Fizz Buzz')
     //     break
-    //   case num % 3 === 0:
+    //   case num % 3 === 0 && num % 5 !== 0:
     //     console.log('Fizz')
     //     break
-    //   case num % 5 === 0:
+    //   case num % 3 !== 0 && num % 5 === 0:
     //     console.log('Buzz')
     //     break
 
     //   default:
     //     console.log(num)
     // }
-    if (num % 3 === 0 && num % 5 === 0) {
-      console.log('Fizz Buzz')
-    } else if (num % 3 === 0) {
-      console.log('Fizz')
-    } else if (num % 5 === 0) {
-      console.log('Buzz')
-    } else {
-      console.log(num)
+
+    // compare to the value
+
+    switch (0) {
+      case num % 15:
+        console.log('Fizz Buzz')
+        break
+      case num % 3:
+        console.log('Fizz')
+        break
+      case num % 5:
+        console.log('Buzz')
+        break
+      default:
+        console.log(num)
     }
+
+    // if/else statements method
+
+    //   if (num % 3 === 0 && num % 5 === 0) {
+    //     console.log('Fizz Buzz')
+    //   } else if (num % 3 === 0) {
+    //     console.log('Fizz')
+    //   } else if (num % 5 === 0) {
+    //     console.log('Buzz')
+    //   } else {
+    //     console.log(num)
+    //   }
   }
 }
