@@ -89,3 +89,60 @@
     ```js
     15
     ```
+
+## FizzBuzz
+
+- In this file you will be writing code in the body of the `fizzBuzz` function to achieve the following:
+
+  - Iterate through each number in the given array.
+
+  - If a number is evenly divisible by 3, print "Fizz" to the console.
+
+  - If a number is evenly divisible by 5 print "Buzz" to the console.
+
+  - If a number is evenly divisible by 3 and 5, print "Fizz Buzz" to the console.
+
+  - Else print the number.
+
+    - e.g. given the following array:
+
+    ```js
+    var arr = [13, 14, 15, 16, 17, 18, 19, 20]
+    ```
+
+    - The following should be printed to the console:
+
+    ```js
+    13
+    14
+    ;('Fizz Buzz')
+    ;('Fizz')
+    17
+    ;('Fizz')
+    19
+    ;('Buzz')
+    ```
+
+## Max Num
+
+- In this file you will be writing code in the body of the `maxNum` function to achieve the following:
+
+  - Return the largest number present in the given `arr` array.
+
+    - e.g. given the following array:
+
+    ```js
+    var arr = [3, 1, 17, 5, 6]
+    ```
+
+    - The following number should be returned:
+
+    ```js
+    17
+    ```
+
+## Vowel Count
+
+- In this file you will be writing code in the body of the `vowelCount` function to achieve the following:
+
+  - Return the number of vowels present in `str`.
