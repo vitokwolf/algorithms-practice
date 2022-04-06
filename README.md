@@ -66,15 +66,17 @@
 
   - Print all numbers from `1` up to the given `nums` argument inclusive.
 
-    - e.g. given the number `5` as the `num` argument, the following should be printed to the console, one log at a time:
+        - e.g. given the number `5` as the `num` argument, the following should be printed to the console, one log at a time:
 
-          1
-          2
-          3
-          4
-          5
+          ```
+              1
+              2
+              3
+              4
+              5
+          ```
 
-<div align="center">
+    <div align="center">
 
 [Back to Section Summary](#1st-set-contents)
 
@@ -104,7 +106,7 @@
 
     - e.g. given the number `6` as the `num` argument, the following should be printed to the console, one log at a time:
 
-      ```bash
+      ```
       0
       2
       4
@@ -127,7 +129,7 @@
 
     - e.g. given the number `10` as the `num` argument, the following should be printed to the console, one log at a time:
 
-      ```bash
+      ```
       10
       9
       8
@@ -156,15 +158,15 @@
 
     - e.g. given the following array:
 
-    ```js
-    var arr = [3, 1, 5, 6]
-    ```
+      ```
+      var arr = [3, 1, 5, 6]
+      ```
 
     - The following number should be returned:
 
-    ```js
-    15
-    ```
+      ```
+      15
+      ```
 
 <div align="center">
 
@@ -202,24 +204,24 @@
 
   - Else print the number.
 
-        - e.g. given the following array:
+    - e.g. given the following array:
 
-        ```js
-        var arr = [13, 14, 15, 16, 17, 18, 19, 20]
-        ```
+      ```
+      var arr = [13, 14, 15, 16, 17, 18, 19, 20]
+      ```
 
-        - The following should be printed to the console:
+    - The following should be printed to the console:
 
-        ```js
-        13
-        14
-        ;('Fizz Buzz')
-        ;('Fizz')
-        17
-        ;('Fizz')
-        19
-        ;('Buzz')
-        ```
+      ```
+      13
+      14
+      'Fizz Buzz'
+      'Fizz'
+      17
+      'Fizz'
+      19
+      'Buzz'
+      ```
 
     <div align="center">
 
@@ -237,15 +239,15 @@
 
     - e.g. given the following array:
 
-    ```js
-    var arr = [3, 1, 17, 5, 6]
-    ```
+      ```
+      var arr = [3, 1, 17, 5, 6]
+      ```
 
     - The following number should be returned:
 
-    ```js
-    17
-    ```
+      ```
+      17
+      ```
 
 <div align="center">
 
@@ -293,15 +295,15 @@
 
     - e.g. given the following string:
 
-    ```js
-    var str = 'racecar'
-    ```
+      ```
+      var str = 'racecar'
+      ```
 
     - The following should be returned:
 
-    ```js
-    true
-    ```
+      ```
+      true
+      ```
 
 <div align="center">
 
@@ -319,18 +321,18 @@
 
   - A factorial of a number is the product of all of all positive integers less than or equal to the number.
 
-  - e.g. given the following number:
+    - e.g. given the following number:
 
-  ```js
-  var num = 3
-  ```
+      ```
+      var num = 3
+      ```
 
-  - The following number should be returned:
+    - The following number should be returned:
 
-  ```js
-  6
-  // 1 x 2 x 3 === 6
-  ```
+      ```
+      6
+      // 1 x 2 x 3 === 6
+      ```
 
   - If given `0`, the factorial should be `1`. Otherwise assume the given number will be a whole positive number.
 
@@ -348,17 +350,17 @@
 
   - Return a string identical to the given `str` string, but with the first letter of each word capitalized.
 
-  - e.g. given the following string:
+    - e.g. given the following string:
 
-  ```js
-  var str = 'a lannister always pays his debts'
-  ```
+      ```
+      var str = 'a lannister always pays his debts'
+      ```
 
-  - The following string should be returned:
+    - The following string should be returned:
 
-  ```js
-  'A Lannister Always Pays His Debts'
-  ```
+      ```
+      'A Lannister Always Pays His Debts'
+      ```
 
 <div align="center">
 
@@ -389,17 +391,17 @@
 
   - Return a string identical to the given `str` string, but with the letter case of each character swapped.
 
-  - e.g. given the following string:
+    - e.g. given the following string:
 
-  ```js
-  var str = 'Luke, I Am Your Father'
-  ```
+      ```
+      var str = 'Luke, I Am Your Father'
+      ```
 
-  - The following string should be returned:
+    - The following string should be returned:
 
-  ```js
-  'lUKE, i aM yOUR fATHER'
-  ```
+      ```
+      'lUKE, i aM yOUR fATHER'
+      ```
 
 <div align="center">
 
@@ -415,17 +417,17 @@
 
   - Return the longest word in the given string (`str`).
 
-  - e.g. given the following string:
+    - e.g. given the following string:
 
-  ```js
-  var str = 'i love programming'
-  ```
+      ```
+      var str = 'i love programming'
+      ```
 
-  - The following string should be returned:
+    - The following string should be returned:
 
-  ```js
-  "programming
-  ```
+      ```
+      "programming
+      ```
 
 <div align="center">
 
@@ -441,17 +443,17 @@
 
   - Return a new string that is an acronym of the given string.
 
-  - For example, given the following string:
+    - For example, given the following string:
 
-  ```js
-  var str = 'For your information'
-  ```
+      ```
+      var str = 'For your information'
+      ```
 
-  - return:
+    - return:
 
-  ```js
-  'FYI'
-  ```
+      ```
+      'FYI'
+      ```
 
 <div align="center">
 
@@ -467,17 +469,17 @@
 
   - Return a new string that has all the words in the given string in reversed order. Reverse the order of the _words_, not the _letters_ in the string.
 
-  - e.g. given the following string:
+    - e.g. given the following string:
 
-  ```js
-  var str = 'just keep swimming'
-  ```
+      ```
+      var str = 'just keep swimming'
+      ```
 
-  - The following string should be returned:
+    - The following string should be returned:
 
-  ```js
-  'swimming keep just'
-  ```
+      ```
+      'swimming keep just'
+      ```
 
 <div align="center">
 
