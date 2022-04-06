@@ -73,8 +73,6 @@
 
 ## 2nd Set Contents
 
----
-
 - [Log Even Nums](#log-even-nums)
 - [Countdown](#countdown)
 - [Sum Array](#sum-array)
