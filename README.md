@@ -7,6 +7,7 @@
 - [3rd Set](#3rd-set-contents)
 - [4th Set](#4th-set-contents)
 - [5th Set](#5th-set-contents)
+- [6th Set](#6th-set-contents)
 
 ---
 
@@ -488,3 +489,121 @@
  </div>
 
 ---
+
+## 6th Set Contents
+
+- [Character Count](#character-count)
+- [Product of Largest Two](#product-of-largest-two)
+- [Camel Case](#camel-case)
+
+<div align="right">
+
+[Back to Top](#table-of-contents)
+
+ </div>
+
+---
+
+### _Character Count_
+
+- In this file you will be writing code in the body of the `characterCount` function to achieve the following:
+
+  - Create a new object.
+
+  - Loop through each character in the given string and create a new key for each character in the string.
+
+  - The value of the character's key should be the number of times it appears in the string.
+
+    - For example, given the following string:
+
+      ```
+      var str = "Hello World!";
+      ```
+
+    - The following object should be returned:
+
+      ```
+      {
+        H: 1,
+        e: 1,
+        l: 3,
+        o: 2,
+        ' ': 1,
+        W: 1,
+        r: 1,
+        d: 1,
+        '!': 1
+      }
+      ```
+
+<div align="center">
+
+[Back to Section Summary](#6th-set-contents)
+
+ </div>
+
+---
+
+### _Product of Largest Two_
+
+- In this file you will be writing code in the body of the `productOfLargestTwo` function to achieve the following:
+
+  - Find the largest and the second largest numbers in the given array.
+
+  - Return the product of the largest and the second largest number.
+
+    - For example, given the following array:
+
+      ```
+      var arr = [10, 20, 9, 6, 3] // largest is 20, secondLargest is 10
+      ```
+
+    - The following number should be returned:
+
+      ```
+      200
+      ```
+
+  - **The given array will always contain at least 2 elements.**
+
+<div align="center">
+
+[Back to Section Summary](#6th-set-contents)
+
+ </div>
+
+---
+
+# Camel Case
+
+- In this file you will be writing code in the body of the `camelCase` function to achieve the following:
+
+  - Return a camelCased version of the given string.
+
+  - A string is camelCased when there are no spaces between words, the first letters of each word except the first word is capitalized and all other letters are lowerCased.
+
+    - For example, given the following string:
+
+      ```
+      var str = "let the force flow through you";
+      ```
+
+    - The following string should be returned:
+
+      ```
+      "letTheForceFlowThroughYou";
+      ```
+
+<div align="center">
+
+[Back to Section Summary](#6th-set-contents)
+
+ </div>
+
+---
+
+<div align="right">
+
+[Back to Top](#table-of-contents)
+
+ </div>
