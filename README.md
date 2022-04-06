@@ -1,6 +1,23 @@
 # Algorithms Practice
 
-## Arithmetic
+## Table of Contents
+
+- [1st Set](#1st-set-contents)
+- [2nd Set](#2nd-set-contents)
+- [3rd Set](#3rd-set-contents)
+- [4th Set](#4th-set-contents)
+
+---
+
+## 1st Set Contents
+
+- [Arithmetic](#arithmetic)
+- [Odd or Even](#odd-or-even)
+- [Log Nums](#log-nums)
+
+---
+
+### _Arithmetic_
 
 - In this file you will be writing code in the body of each function defined to accomplish the following:
 
@@ -12,7 +29,13 @@
 
   - **divide**: returns the result of `num1` divided by `num2`.
 
-## Odd or Even
+<div align="right">
+
+[Back to Top](#table-of-contents)
+
+ </div>
+
+### _Odd or Even_
 
 - In this file you will be writing code in the body of the `oddOrEven` function to achieve the following:
 
@@ -20,23 +43,43 @@
 
   - If `num` is NOT evenly divisible by 2, return the string "odd".
 
-## Log Nums
+<div align="right">
+
+[Back to Top](#table-of-contents)
+
+ </div>
+
+### _Log Nums_
 
 - In this file you will be writing code in the body of the `logNums` function to achieve the following:
 
   - Print all numbers from `1` up to the given `nums` argument inclusive.
 
-    - e.g. given the number `5` as the `num` argument, the following should be printed to the console, one log at a time:
+        - e.g. given the number `5` as the `num` argument, the following should be printed to the console, one log at a time:
 
-      ```bash
-      1
-      2
-      3
-      4
-      5
-      ```
+          ```bash
+          1
+          2
+          3
+          4
+          5
+          ```
 
-## Log Even Nums
+<div align="right">
+
+[Back to Top](#table-of-contents)
+
+ </div>
+
+## 2nd Set Contents
+
+- [Log Even Nums](#log-even-nums)
+- [Countdown](#countdown)
+- [Sum Array](#sum-array)
+
+---
+
+### _Log Even Nums_
 
 - In this file you will be writing code in the body of the `logEvenNums` function to achieve the following:
 
@@ -51,7 +94,13 @@
       6
       ```
 
-## Countdown
+<div align="right">
+
+[Back to Top](#table-of-contents)
+
+ </div>
+ 
+### *Countdown*
 
 - In this file you will be writing code in the body of the `countdown` function to achieve the following:
 
@@ -72,7 +121,13 @@
       1
       ```
 
-## Sum Array
+<div align="right">
+
+[Back to Top](#table-of-contents)
+
+ </div>
+ 
+### *Sum Array*
 
 - In this file you will be writing code in the body of the `sumArray` function to achieve the following:
 
@@ -90,7 +145,21 @@
     15
     ```
 
-## FizzBuzz
+<div align="right">
+
+[Back to Top](#table-of-contents)
+
+ </div>
+ 
+## 3rd Set Contents
+
+- [FizzBuzz](#FizzBuzz)
+- [Max Num](#max-num)
+- [Vowel Count](#vowel-count)
+
+---
+
+### _FizzBuzz_
 
 - In this file you will be writing code in the body of the `fizzBuzz` function to achieve the following:
 
@@ -123,7 +192,13 @@
     ;('Buzz')
     ```
 
-## Max Num
+<div align="right">
+
+[Back to Top](#table-of-contents)
+
+ </div>
+ 
+### *Max Num*
 
 - In this file you will be writing code in the body of the `maxNum` function to achieve the following:
 
@@ -141,13 +216,33 @@
     17
     ```
 
-## Vowel Count
+<div align="right">
+
+[Back to Top](#table-of-contents)
+
+ </div>
+ 
+### *Vowel Count*
 
 - In this file you will be writing code in the body of the `vowelCount` function to achieve the following:
 
   - Return the number of vowels present in `str`.
 
-## Is Palindrome
+<div align="right">
+
+[Back to Top](#table-of-contents)
+
+ </div>
+ 
+## 4th Set Contents
+
+- [Is Palindrome](#is-palindrome)
+- [Factorial](#factorial)
+- [Title Case](#title-case)
+
+---
+
+### _Is Palindrome_
 
 - In this file you will be writing code in the body of the `isPalindrome` function to achieve the following:
 
@@ -167,7 +262,13 @@
     true
     ```
 
-## Factorial
+<div align="right">
+
+[Back to Top](#table-of-contents)
+
+ </div>
+ 
+### *Factorial*
 
 - In this file you will be writing code in the body of the `factorial` function to achieve the following:
 
@@ -190,7 +291,13 @@
 
   - If given `0`, the factorial should be `1`. Otherwise assume the given number will be a whole positive number.
 
-## Title Case
+<div align="right">
+
+[Back to Top](#table-of-contents)
+
+ </div>
+ 
+### *Title Case*
 
 - In this file you will be writing code in the body of the `titleCase` function to achieve the following:
 
@@ -207,3 +314,9 @@
   ```js
   'A Lannister Always Pays His Debts'
   ```
+
+<div align="right">
+
+[Back to Top](#table-of-contents)
+
+ </div>
