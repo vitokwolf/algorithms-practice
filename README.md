@@ -1,4 +1,4 @@
-# Algorithms Practice
+# Algorithms Practice - Easy
 
 ## Table of Contents
 
