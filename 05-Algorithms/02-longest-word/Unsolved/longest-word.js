@@ -3,8 +3,7 @@
 var longestWord = function (str) {
   let result = ''
   let arr = str.split(' ')
-  //   console.log(str)
-  //   console.log(arr)
+
   for (let i = 0; i < arr.length; i++) {
     if (arr[i].length > result.length) {
       result = arr[i]
