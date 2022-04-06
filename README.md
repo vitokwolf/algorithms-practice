@@ -146,3 +146,64 @@
 - In this file you will be writing code in the body of the `vowelCount` function to achieve the following:
 
   - Return the number of vowels present in `str`.
+
+## Is Palindrome
+
+- In this file you will be writing code in the body of the `isPalindrome` function to achieve the following:
+
+  - Return `true` if the given string is a palindrome.
+
+  - Return `false` if the given string is not a palindrome.
+
+    - e.g. given the following string:
+
+    ```js
+    var str = 'racecar'
+    ```
+
+    - The following should be returned:
+
+    ```js
+    true
+    ```
+
+## Factorial
+
+- In this file you will be writing code in the body of the `factorial` function to achieve the following:
+
+  - Return the factorial of the given `num` integer.
+
+  - A factorial of a number is the product of all of all positive integers less than or equal to the number.
+
+  - e.g. given the following number:
+
+  ```js
+  var num = 3
+  ```
+
+  - The following number should be returned:
+
+  ```js
+  6
+  // 1 x 2 x 3 === 6
+  ```
+
+  - If given `0`, the factorial should be `1`. Otherwise assume the given number will be a whole positive number.
+
+## Title Case
+
+- In this file you will be writing code in the body of the `titleCase` function to achieve the following:
+
+  - Return a string identical to the given `str` string, but with the first letter of each word capitalized.
+
+  - e.g. given the following string:
+
+  ```js
+  var str = 'a lannister always pays his debts'
+  ```
+
+  - The following string should be returned:
+
+  ```js
+  'A Lannister Always Pays His Debts'
+  ```
